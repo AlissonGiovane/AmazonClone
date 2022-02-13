@@ -1,0 +1,17 @@
+.verificacao {
+    display: flex;
+    padding: 20px;
+    background-color: white;
+    height: max-content;
+  }
+  
+  .verificacao_propaganda {
+    width: 100%;
+    margin-bottom: 10px;
+  }
+  
+  .verificacao_titulo {
+    margin-right: 10px;
+    padding: 10px;
+    border-bottom: 1px solid lightgray;
+  }
